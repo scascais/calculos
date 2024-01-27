@@ -47,7 +47,7 @@ namespace Calculos
                 return ((temperatura - 32) / 1.800);
             }
 
-            return -1;
+            return -1; 
         }
 
         /// <summary>
